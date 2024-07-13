@@ -20,7 +20,7 @@ Pig is a simple and fun dice game first described in print by John Scarne in 194
 
 ## Interface
 
-- **Overall score**: Displays the overall scores for both players.
+- **Overall Score**: Displays the overall scores for both players.
 - **Current Score**: Shows the running total for the current turn.
 - **Roll Dice Button**: Rolls the die and updates the current score.
 - **Hold Button**: Adds the current score to the player's total score and switches the turn to the other player.
