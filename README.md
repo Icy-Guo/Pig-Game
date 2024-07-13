@@ -28,13 +28,13 @@ Pig is a simple and fun dice game first described in print by John Scarne in 194
 
 ## How to Play
 
-1. Click the "New Game" button to start a new game.
-2. Player 1 starts by clicking the "Roll Dice" button to roll the die.
-3. The result is added to the current score.
-4. Player 1 can choose to "Roll Dice" again or "Hold".
-5. If Player 1 rolls a 1, their turn ends and it becomes Player 2's turn.
-6. Player 2 follows the same steps.
-7. The game continues until one player reaches 100 points or more.
+1. Player 1 starts by clicking the "Roll Dice" button to roll the die.
+2. The result is added to the current score.
+3. Player 1 can choose to "Roll Dice" again or "Hold".
+4. If Player 1 rolls a 1, their turn ends and it becomes Player 2's turn.
+5. Player 2 follows the same steps.
+6. The game continues until one player reaches 100 points or more.
+7. Click the "New Game" button to start a new game.
 
 ## Screenshot
 
