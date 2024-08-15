@@ -41,4 +41,8 @@ Pig is a simple and fun dice game first described in print by John Scarne in 194
 ![Game Screenshot](Screenshot1.png)
 ![Game Screenshot](Screenshot2.png)
 
+## Project URL
+
+Try this game online :) [Number-Guessing-Game](https://icy-guo.github.io/Number-Guessing-Game/)
+
 Enjoy playing Pig Game!
