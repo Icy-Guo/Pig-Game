@@ -2,7 +2,7 @@
 
 ## Description
 
-Pig is a simple and fun dice game first described in print by John Scarne in 1945. Players take turns to roll a single die as many times as they wish, adding all roll results to a running total. However, if a player rolls a 1, they lose their gained score for that turn and it becomes the next player's turn.
+Pig Game is a simple and fun dice game first described in print by John Scarne in 1945. Players take turns to roll a single die as many times as they wish, adding all roll results to a running total. However, if a player rolls a 1, they lose their gained score for that turn and it becomes the next player's turn.
 
 ## Rules
 
